@@ -1,0 +1,63 @@
+.hh{
+    display: inline-block;
+    width: 30%;
+    border: 2px solid black;
+    padding: 20px 60px;
+    align-items: center;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: crimson;
+    color: wheat;
+    
+}
+
+.coinsec{
+    margin-left: 13%;
+}
+
+
+
+#h1{
+    text-align: center;
+}
+#h2{
+    text-align: center;
+}
+#h3{
+    text-align: center;
+}
+
+.btn{
+    padding: 5px 20px;
+    border: none;
+    background-color: orange;
+    border-radius: 10px;
+    color: wheat;
+}
+
+
+.hhh{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    margin: 20px 90px 20px 90px;
+    padding: 40px;
+    background-color: rgb(43, 39, 39);
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.hhh h3{
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+}
+.hhh h1{
+    margin: 0px;
+    padding-bottom: 5px;
+}
+
+.hhh h1:hover{
+    border-bottom:1px solid yellow ;
+}
