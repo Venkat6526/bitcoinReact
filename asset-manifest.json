@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitcoinReact/static/css/main.010756aa.css",
+    "main.js": "/bitcoinReact/static/js/main.acd04bc2.js",
+    "index.html": "/bitcoinReact/index.html",
+    "main.010756aa.css.map": "/bitcoinReact/static/css/main.010756aa.css.map",
+    "main.acd04bc2.js.map": "/bitcoinReact/static/js/main.acd04bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010756aa.css",
+    "static/js/main.acd04bc2.js"
+  ]
+}
